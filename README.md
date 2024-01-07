@@ -9,6 +9,7 @@
 ## Employee CRUD
 - Basic Laravel CRUD app using existing database
 - Download database (sql) file here: https://drive.google.com/file/d/1Mkc_DKnZKAYaEyfHF1dGgLMC4RAjMrBC/view?usp=sharing
+- See CRUD actions preview below
 
 ## Preview
 ![image](https://github.com/danodoms/employee-crud/assets/116992939/49f11d44-d208-4d08-9496-972a8c0f69c0)
